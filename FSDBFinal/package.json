@@ -1,0 +1,36 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dal": "^0.1.0",
+    "date-fns": "^3.6.0",
+    "dotenv-cli": "^7.4.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "method-override": "^3.0.0",
+    "mongodb": "^6.8.0",
+    "node": "^22.7.0",
+    "node-crypto": "^1.0.0",
+    "pg": "^8.12.0",
+    "util": "^0.12.5",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "dotenv": "^16.4.5"
+  },
+  "description": ""
+}
